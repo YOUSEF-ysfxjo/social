@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+body{
+    font-family: 'League Spartan';
+    margin-bottom:100px;
+}
+
+h1{
+    color: hsl(300, 43%, 22%);
+    line-height: 1;
+}
+
+.main p{
+    color: hsl(302, 14%, 52%)
+}
+
+
+.stars_cards {
+    background-color: hsl(300, 24%, 96%);
+}
+
+.stars p{
+    color: hsl(300, 43%, 22%);
+}
+
+.test{
+    display:grid;
+    gap:10px;
+    color:white
+   
+} 
+.card{
+    background-color: hsl(300, 43%, 22%);
+    margin-inline:17px;
+    padding:20px;
+    border-radius: 2%;
+}
+
+.card p{ 
+color:hsl(300, 12%, 89%);
+}
+
+.card small{
+    color:hsl(333, 80%, 67%);
+}
+
+
